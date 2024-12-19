@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @khoadong07
+- 👀 I’m interested in AI research, programming, automation, and new technologies.
+- 🌱 I’m currently learning more about AI and its applications, exploring new technologies, and improving my programming skills.
+- 💞️ I’m looking to collaborate on AI projects, automation tools, and anything that involves cutting-edge technology.
+- 📫 You can reach me via email or through GitHub issues and discussions.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I’m a friendly person who loves making new friends and sharing experiences with others!
